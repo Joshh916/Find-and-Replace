@@ -16,6 +16,7 @@ To change Files in both user folders, and other locations, as in examples 1 and 
 
  The "Find" Field is where you type in the text you re looking for, and the "Replace" Field is where you type in the text you are going to replace it with.
 
-This is a free program, I wrote this program to provide a tool to people who need it and I am not responsible for what you do with it. Use at your own risk, changeing configuration files without proper knowlege could damage your system.
+The "Save" button saves the information in the text fields and automatically loads them the next time you start the application.
 
-If you have and questions, or comments feel free to reach out to me at joshh916@gmail.com
+This is a free program, I wrote this program to provide a tool to people who need it and I am not responsible for what you do with it. Use at your own risk, changing configuration files without proper knowlege could damage your system.
+
