@@ -1,7 +1,7 @@
 # Find-and-Replace
 This program finds text in one or more text based documents and replaces it with another.
 
-I wrote it for myself to quickly change multiple .cfg files on a pc at one time without having to open the file. Download the FindandReplaceEXE folder and unzip to run the program or the FindandReplaceINSTALL folder and unzip to install the program to our PC
+I wrote it for myself to quickly change multiple .cfg files on a pc at one time without having to open the file. Download the FindandReplaceEXE folder and unzip to run the program or the FindandReplaceINSTALL folder and unzip to install the program to your PC
 
 If you have and questions, or comments feel free to reach out to me at joshh916@gmail.com directions on how to use the program are listed below and the same directions are in the "Help" menu in the program.
 
