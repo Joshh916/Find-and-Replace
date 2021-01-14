@@ -1,0 +1,31 @@
+C:\Users\joshh\onedrive\documents\visual studio 2015\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.csprojResolveAssemblyReference.cache
+C:\Users\joshh\onedrive\documents\visual studio 2015\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.Form1.resources
+C:\Users\joshh\onedrive\documents\visual studio 2015\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.Form2.resources
+C:\Users\joshh\onedrive\documents\visual studio 2015\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.Properties.Resources.resources
+C:\Users\joshh\onedrive\documents\visual studio 2015\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.csproj.GenerateResource.Cache
+C:\Users\joshh\onedrive\documents\visual studio 2015\Projects\FindandReplace\FindandReplace\bin\Debug\FindandReplace.exe.config
+C:\Users\joshh\onedrive\documents\visual studio 2015\Projects\FindandReplace\FindandReplace\bin\Debug\FindandReplace.exe
+C:\Users\joshh\onedrive\documents\visual studio 2015\Projects\FindandReplace\FindandReplace\bin\Debug\FindandReplace.pdb
+C:\Users\joshh\onedrive\documents\visual studio 2015\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.exe
+C:\Users\joshh\onedrive\documents\visual studio 2015\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.pdb
+C:\Users\joshh\OneDrive\Documents\Visual Studio 2015\Projects\FindandReplace\FindandReplace\bin\Debug\FindandReplace.exe.manifest
+C:\Users\joshh\OneDrive\Documents\Visual Studio 2015\Projects\FindandReplace\FindandReplace\bin\Debug\FindandReplace.application
+C:\Users\joshh\OneDrive\Documents\Visual Studio 2015\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.exe.manifest
+C:\Users\joshh\OneDrive\Documents\Visual Studio 2015\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.application
+C:\Users\joshh\OneDrive\Documents\Visual Studio 2015\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.Form3.resources
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\bin\Debug\FindandReplace.exe.config
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\bin\Debug\FindandReplace.exe.manifest
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\bin\Debug\FindandReplace.application
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\bin\Debug\FindandReplace.exe
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\bin\Debug\FindandReplace.pdb
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.csprojResolveAssemblyReference.cache
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.Form1.resources
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.Form2.resources
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.Form3.resources
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.Properties.Resources.resources
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.csproj.GenerateResource.Cache
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.exe.manifest
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.application
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.exe
+E:\VisualStudio\Projects\FindandReplace\FindandReplace\obj\Debug\FindandReplace.pdb
